@@ -1,6 +1,3 @@
-# twitter_feminism_analysis
-Data analysis of most characteristic words used in pro- and anti-feminist tweets
-
 # The most characteristic words in pro- and anti-feminist tweets #
 
 ## Attitude analysis by machine learning as an alternative to sentiment analysis in order to classify tweets as pro- or anti-feminist, and determine the differences in their vocabularies ##
