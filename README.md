@@ -2,7 +2,7 @@
 
 ## Attitude analysis by machine learning as an alternative to sentiment analysis in order to classify tweets as pro- or anti-feminist, and determine the differences in their vocabularies ##
 
-#### This project won the Data Science prize andthe  NLP prize at the Montreal Big Data Week Hackathon 2015 #
+#### This project won the Data Science prize and the NLP prize at the Montreal Big Data Week Hackathon 2015 #
 
 By David Taylor, Zafarali Ahmed, Jerome Boisvert-Chouinard, Dave Gurnsey, Nancy Lin, and Reda Lotfi
 
