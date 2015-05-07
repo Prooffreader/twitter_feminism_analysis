@@ -6,9 +6,11 @@
 
 By David Taylor, Zafarali Ahmed, Jerome Boisvert-Chouinard, Dave Gurnsey, Nancy Lin, and Reda Lotfi
 
-For a blog post about the results: http://www.prooffreader.com
+For a blog post about the results: http://www.prooffreader.com/2015/05/most-characteristic-words-in-pro-and.html
 
-For a blog post about the methodology: http://prooffreaderplus.blogspot.ca
+For a blog post about the methodology: http://prooffreaderplus.blogspot.ca/2015/05/methodology-for-most-characteristic.html
+
+[Link to nbviewer version of the IPython notebook]( http://nbviewer.ipython.org/github/Prooffreader/twitter_feminism_analysis/blob/master/twitter_feminism_analysis.ipynb)
 
 ---
 
